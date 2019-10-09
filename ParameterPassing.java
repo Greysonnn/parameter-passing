@@ -31,7 +31,7 @@ public class Parameters {
 											// d1=3.5; d2=5.0; d3=4.7;
 		method2(3.5,5.0,4.7);
 											//fname="Greyson"; lname="Evers";
-		method3("Greyson", "Evers");
+		method3("G", "K");
 	}
 }
 
